@@ -17,7 +17,7 @@ public class Main
     }
 
     public static String getExampleString()
-    {
+    { // This is an obsolete commend
         StringBuilder sb = new StringBuilder();
         sb.append("Hello");
         sb.append(" ");
