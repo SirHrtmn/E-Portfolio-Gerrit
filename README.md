@@ -24,3 +24,16 @@ This following tutorial requires an existing GitHub account and a existing GitHu
 - Then login to your GitHub account and select which repositories you want to import. 
 
 That's all!
+
+## General Workflow of Gerrit Code Review
+The general Workflow of gerrit would look like this: 
+
+1. Making the change
+2. Creating the review
+3. Reviewing the change
+4. Reworking the change
+5. Verifying the change
+6. Submitting the change
+
+The best walkthrough would be this one: [Gerrit-Walktrough](https://git.eclipse.org/r/Documentation/intro-gerrit-walkthrough.html)
+It is a walktrough from the official documentation website of gerrit where each Step is explained in detail.
