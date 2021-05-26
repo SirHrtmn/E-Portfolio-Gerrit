@@ -4,7 +4,7 @@ This is a Repository for the E-Portfolio about Gerrit Code Review.
 Some References:
 - [Here is my gerrit repository](https://review.gerrithub.io/plugins/gitiles/SirHrtmn/E-Portfolio-Gerrit/+/refs/heads/main) which you can access on the public gerrit instance [gerrithub.io](http://gerrithub.io). 
 
-- [My slides](https://slides.com/sirhrtmn/deck)
+- [My slides](https://slides.com/sirhrtmn/deck) The slides are also uploaded as html file but when you open it on GitHub you wont see anything. So either use this link or download the html file and open it via your browser. Sorry for that :(
 
 There is also a [Gerrit Documentation Site](https://gerrit-documentation.storage.googleapis.com/Documentation/3.4.0/index.html) and the [Official Website](https://www.gerritcodereview.com/) where you can have addition information about Gerrit itself. Maybe [this old Gerrit Wiki Website](https://gerrit.googlesource.com/homepage/+/master/pages/site/docs/) could also help you, if you want to use Gerrit Code Review.
 
