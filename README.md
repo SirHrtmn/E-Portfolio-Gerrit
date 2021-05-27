@@ -20,11 +20,14 @@ This following tutorial requires an existing GitHub account and a existing GitHu
   ![SignIn Screenshot](Images/SignIn-using-GitHub-Screenshot.png)
 - On the "Login Scope Selection" select the option "Private" and click "Login"
   - so you can also push code into the imported repository rather than only be able to review existing code
-  ![SignIn Screenshot](Images/Login-Scope-Screenshot.png)
+  ![LogIn Scope Screenshot](Images/Login-Scope-Screenshot.png)
 - Then login to your GitHub account and select which repositories you want to import. 
 
 That's all!
 
+  Note: For pushing code into a repository, you may need credentials. Those credentials are your username from GitHub & a generated password from the preferences site   of your gerrit. (Normally on the top right of the main page) Configure your key for either http or ssh. It will look like this:
+  ![Key Configuration Screenshot](Images/http-ssh-key-preferences.png)
+  
 ## General Workflow of Gerrit Code Review
 The general Workflow of gerrit would look like this: 
 
