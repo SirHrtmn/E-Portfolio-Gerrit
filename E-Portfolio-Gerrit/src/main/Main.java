@@ -25,6 +25,11 @@ public class Main
         sb.append("!");
         return sb.toString();
     }
+    
+    public static String getExampleString2()
+    {
+        return "tmp";
+    }
 
 }
 
