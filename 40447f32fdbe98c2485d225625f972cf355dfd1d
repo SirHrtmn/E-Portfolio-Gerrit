@@ -22,6 +22,30 @@
       },
       "revId": "40447f32fdbe98c2485d225625f972cf355dfd1d",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0defd32_d696f76c",
+        "filename": "E-Portfolio-Gerrit/src/main/Main.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1019181
+      },
+      "writtenOn": "2021-05-27T09:45:28Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "871752a9_7fa359a0",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 6
+      },
+      "revId": "40447f32fdbe98c2485d225625f972cf355dfd1d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
